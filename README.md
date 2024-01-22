@@ -2,16 +2,8 @@
 
 Reprodutor de musica
 
-## Getting Started
+Aplicativo durante um curso Dart + GetX
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Music-Player
+![Screenshot_1705951164](https://github.com/rafaeltutu/Music-Player/assets/62215859/f74342e7-a99b-4010-bd6d-fb1d2b27f916)
+![Screenshot_1705951167](https://github.com/rafaeltutu/Music-Player/assets/62215859/8fd0d789-50a4-4a0e-84ab-0b40e2dee706)
+![Screenshot_1705951411](https://github.com/rafaeltutu/Music-Player/assets/62215859/29cc0cb1-21b3-47dc-9d37-2c6544a60c7e)
